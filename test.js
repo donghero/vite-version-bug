@@ -1,1 +1,0 @@
-const TEST = "想测试 git reset --hard"
